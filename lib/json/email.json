@@ -1,0 +1,16 @@
+{
+  "adminCredentials": [
+    {
+      "email": "admin@example.com",
+      "password": "securePass123"
+    },
+    {
+      "email": "manager@company.com",
+      "password": "managerPass456"
+    },
+    {
+      "email": "supervisor@organization.com", 
+      "password": "superPass789"
+    }
+  ]
+}

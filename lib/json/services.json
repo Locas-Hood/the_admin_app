@@ -1,0 +1,94 @@
+{
+  "digital_services_syria": [
+    {
+      "category_ar": "السجل المدني والعدلي",
+      "category_en": "Civil and Judicial Records",
+      "services": [
+        {
+          "id": "civil_record_01",
+          "name_ar": "إخراج قيد فردي/عائلي",
+          "name_en": "Individual/Family Civil Record",
+          "description_ar": "الحصول على وثائق السجل المدني مصدقة ومرسلة عبر البريد.",
+          "description_en": "Obtain civil status documents certified and sent via mail.",
+          "requirements_ar": ["رقم وطني", "حساب مفعل على منصة الخدمة", "رصيد دفع إلكتروني"],
+          "requirements_en": ["National ID Number", "Active account on the platform", "Electronic payment balance"],
+          "official_url": "https://ecsc.gov.sy/"
+        },
+        {
+          "id": "judicial_record_02",
+          "name_ar": "لا حكم عليه (السجل العدلي)",
+          "name_en": "Non-Criminal Record",
+          "description_ar": "وثيقة تثبت خلو السجل من الجرائم.",
+          "description_en": "A document proving a clean criminal record.",
+          "requirements_ar": ["صورة عن الهوية", "دفع الرسوم إلكترونياً"],
+          "requirements_en": ["ID Copy", "Electronic fee payment"],
+          "official_url": "https://ecsc.gov.sy/"
+        }
+      ]
+    },
+    {
+      "category_ar": "وثائق السفر والهجرة",
+      "category_en": "Travel and Immigration",
+      "services": [
+        {
+          "id": "passport_01",
+          "name_ar": "حجز دور جواز سفر",
+          "name_en": "Passport Appointment Booking",
+          "description_ar": "حجز موعد لإصدار أو تجديد جواز السفر (عادي/مستعجل/فوري).",
+          "description_en": "Booking an appointment to issue or renew a passport (Regular/Urgent/Instant).",
+          "requirements_ar": ["رقم وطني", "تحميل صورة الهوية", "تسديد الرسوم عبر منظومة الدفع الإلكتروني"],
+          "requirements_en": ["National ID Number", "Upload ID photo", "Fee payment via e-payment system"],
+          "official_url": "https://ecsc.gov.sy/"
+        }
+      ]
+    },
+    {
+      "category_ar": "الخدمات العقارية",
+      "category_en": "Real Estate Services",
+      "services": [
+        {
+          "id": "real_estate_01",
+          "name_ar": "بيان قيد عقاري",
+          "name_en": "Real Estate Registry Statement",
+          "description_ar": "استخراج وثيقة ملكية عقارية مصدقة.",
+          "description_en": "Extracting a certified real estate ownership document.",
+          "requirements_ar": ["رقم العقار", "المنطقة العقارية", "بيانات المالك"],
+          "requirements_en": ["Property Number", "Real Estate Zone", "Owner Information"],
+          "official_url": "https://ecsc.gov.sy/"
+        }
+      ]
+    },
+    {
+      "category_ar": "التعليم والجامعات",
+      "category_en": "Education and Universities",
+      "services": [
+        {
+          "id": "university_01",
+          "name_ar": "المفاضلة الجامعية الإلكترونية",
+          "name_en": "Electronic University Admission",
+          "description_ar": "التقدم لمفاضلة القبول الجامعي للطلاب الناجحين في الثانوية.",
+          "description_en": "Applying for university admission for high school graduates.",
+          "requirements_ar": ["رقم الاكتتاب", "صورة عن الشهادة الثانوية", "الرقم الوطني"],
+          "requirements_en": ["Subscription Number", "High school certificate copy", "National ID"],
+          "official_url": "http://www.mohe.gov.sy/"
+        }
+      ]
+    },
+    {
+      "category_ar": "الاتصالات والخدمات العامة",
+      "category_en": "Telecom and Public Services",
+      "services": [
+        {
+          "id": "telecom_01",
+          "name_ar": "بوابة خدماتي (الهاتف الأرضي)",
+          "name_en": "Khadamati Portal (Landline)",
+          "description_ar": "طلب خطوط هاتفية وبوابات إنترنت واستعلام عن الفواتير.",
+          "description_en": "Apply for telephone lines, ADSL, and billing inquiries.",
+          "requirements_ar": ["رقم الهاتف", "رقم الهوية للمشترك"],
+          "requirements_en": ["Phone Number", "Subscriber ID number"],
+          "official_url": "https://syriantelecom.com.sy/"
+        }
+      ]
+    }
+  ]
+}
